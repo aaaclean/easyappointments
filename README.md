@@ -3,6 +3,8 @@ Easy!Appointments
 
 <img src="http://easyappointments.org/img/easyappointments-banner.png">
 
+Appointments plugin for [AAAClean.co.uk](https://www.aaaclean.co.uk/carpet-cleaning/kent/cranbrook/). - Still under development
+
 ### Organize your business! Exploit human resources that can be used in other tasks more efficiently.
 
 **Easy!Appointments** is a highly customizable web application that allows your customers to book
